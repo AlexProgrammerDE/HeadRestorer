@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "playerlistrestorer",
+  "version": "${version}",
+  "name": "PlayerListRestorer",
+  "description": "Restores player heads on offline mode clients.",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/PlayerListRestorer/icon.png",
+  "environment": "client",
+  "entrypoints": {},
+  "mixins": [
+    "PlayerListRestorer.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.8",
+    "fabric": "*",
+    "minecraft": "1.18"
+  }
+}
