@@ -1,0 +1,15 @@
+[
+{
+  "modid": "headrestorer",
+  "name": "HeadRestorer",
+  "description": "Restores player heads in tab on offline mode servers.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AlexProgrammerDE"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -4,7 +4,7 @@
   "package": "net.pistonmaster.playerlistrestorer.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
-    "PlayerTabOverlayMixin"
+    "net.pistonmaster.headrestorer.mixin.PlayerTabOverlayMixin"
   ],
   "client": [
   ],

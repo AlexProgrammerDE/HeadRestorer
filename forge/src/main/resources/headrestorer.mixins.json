@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.pistonmaster.headrestorer.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "headrestorer.refmap.json",
+  "mixins": [
+    "PlayerTabOverlayMixin"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
